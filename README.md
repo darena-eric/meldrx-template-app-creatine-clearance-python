@@ -1,8 +1,8 @@
-# meldrx-template-app-creatine-clearance-python
-create-meldrx-app Template Using Python/Streamlit
+# health-universe-diabetes-risk-score
+Diabetes Risk Score for Health Universe
 
-Based on this:
-https://github.com/health-universe/creatine-clearance
+## QuickStart
+https://docs.healthuniverse.com/overview/quickstart/15-second-quick-start
 
 ## Setup/Install
 `pip install -r requirements.txt`
